@@ -21,11 +21,7 @@ git clone https://github.com/sunwoochan/sfm.git
 
 ---
 
-Download data for example dataset and run SfM.py
-
-```
-python SfM.py
-```
+Download data for example dataset and run in sfm.ipynb
 
 ## Method
 
