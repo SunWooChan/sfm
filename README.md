@@ -4,7 +4,8 @@ Extracting 3D information from a 2D image and reconfiguring it into 3D is called
 Structure from Motion(SfM) proceeds with 3D reconstruction of the Structure, as shown in the picture from a sequential set of images.  
 It is about how to reconstruct the 3D screen structure accurately, and how to find the camera pose (where the picture was taken), camera intrinsic parameter, and the extrinsic parameter.
 
-![Structure from Motion](image.png)
+![feature extraction](https://user-images.githubusercontent.com/65938333/192982853-80c89740-cd48-4584-aa3f-bc6575ca16a7.png)
+![2 view reconstruction](https://user-images.githubusercontent.com/65938333/192982867-d575817d-b3f0-4667-860c-aed2f89861fe.png)
 
 This project is a Python implementation of SfM with only two view. The code is based on openCV and numpy implementation.
 
